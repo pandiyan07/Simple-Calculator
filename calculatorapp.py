@@ -28,9 +28,9 @@ class calculator:
 		root.title("Calculator")
 		root.resizable(width=False, height=False)
 		
-		self.first_var=StringVar()		# StringVar function holder of the first variable
+		self.first_var=StringVar()	# StringVar function holder of the first variable
 		self.second_var=StringVar()	# StringVar function holder of the second variable
-		self.text=StringVar()				# StringVar function holder of the answer holding variable
+		self.text=StringVar()		# StringVar function holder of the answer holding variable
 	
 		menubar=Menu(root)
 		mainmenu=Menu(menubar)
