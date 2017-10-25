@@ -97,7 +97,6 @@ class calculator:
 		bottom_label.grid(row=3,column=1,columnspan=2)
 		bottom_label.bind("<Button-1>",self.callback)
 		root.config(menu=menubar)
-		root.iconbitmap(r'favicon.ico')
 		root.mainloop()
 	
 	def help(self):
