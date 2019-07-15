@@ -10,6 +10,6 @@
 
 # Compiled Windows desktop application of this calculator has been inlcuded
 
-* Please open the windows_executable_application_file_for_this_source_code folder and double click
-  the calculatorapp file to use the windows version of the compiled application.
+* Please open the **windows_executable_application_file_for_this_source_code** folder and double click
+  the **calculatorapp** file to use the windows version of the compiled application.
 * Open the screenshots folder to view the calculator demo.
